@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+button, div {
+    display: block;
+}
+
+input, span {
+    display: inline;
+}
